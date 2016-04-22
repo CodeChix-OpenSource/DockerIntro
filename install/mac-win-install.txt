@@ -1,0 +1,2 @@
+Docker 1.11 binaries can be downloaded from 
+https://www.docker.com/products/docker-toolbox
